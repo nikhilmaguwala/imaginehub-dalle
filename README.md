@@ -2,7 +2,7 @@
 
 <div align="center">
 <br />
-    <a href="https://codegenie-nikhil.vercel.app/" target="_blank">
+    <a href="https://imaginehub.vercel.app" target="_blank">
       <img src="https://raw.githubusercontent.com/nikhilmaguwala/imaginehub-dalle/main/client/src/assets/imagine_hub_poster.png" alt="Project Banner">
     </a>
   <br />
